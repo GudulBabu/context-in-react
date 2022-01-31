@@ -1,0 +1,18 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+div {
+  border: 1px solid black;
+  margin: 5px;
+}
+.left {
+  width: 40%;
+  height: 300px;
+  float: left;
+}
+.right {
+  display: inline-block;
+  width: 40%;
+  height: 300px;
+}
